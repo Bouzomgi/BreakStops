@@ -1,5 +1,5 @@
 # BreakStops
-IMPORTANT: I've included an original version and an updated version of this code. The original was written in Fall of 2018 (after my first CMPSC class) and the second is a modernized version which was severely uphauled using advanced techniques which I wrote in Fall of 2019, a full year later. I thought it would be cool to upload proof of my ability to improve.
+IMPORTANT: I've included an original version and an updated version of this code. The original was written in Fall of 2018 (after my first CMPSC class) and the second is a modernized version which was greatly uphauled using advanced techniques which I wrote in Fall of 2019, a full year later. I thought it would be cool to upload proof of my ability to improve.
 
 Also, I've redacted my Google API key for privacy.
 
