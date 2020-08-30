@@ -4,7 +4,7 @@ IMPORTANT: I've included an original version and an updated version of this code
 Also, I've redacted my Google API key for privacy.
 
 BreakStops uses OOP (in the form of Schedule and HourMin classes) and the Google Distance Matrix API.
-BreakStops is a project I came up with and created completely independently in a Hackathon my Fall Semester of my Sophmore year. This is a product of a single computer science class (CMSC132: Python 1) and was my pride and joy for a good while. 
+BreakStops is a project I came up with and created completely independently in a Hackathon my Fall Semester of my Sophmore year. This is a product of a single computer science class (CMSC131: Python 1) and was my pride and joy for a good while. 
 
 The premise of the script is to take in a schedule and inform you about what you can do between your classes while factoring in walking distances between them.
 The script intelligently scans key location's proximity to your classes and informs you on a timely choice of where to visit during your break.
